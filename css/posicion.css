@@ -1,0 +1,29 @@
+div#body{
+	margin: auto;
+	margin-top: 10px;
+	width: 1000;
+	height: 1500px;
+}
+div#izquierda{
+	width: 330px;
+	height: 1500px;
+	float: left;
+}
+div#centro{
+	width: 100px;
+	height: 1500px;
+	
+	float: left;
+}
+div#esp1{
+	width: 150px;
+	height: 1500px;
+	
+	float: left;
+}
+div#derecha{
+	width: 1000px;
+	height: 1500px;
+	
+	float: left;
+}
